@@ -1,0 +1,24 @@
+BODY, TD, SELECT, TEXTAREA	{color: #000000; font-family: Verdana; font-size: 8pt; font-weight: normal;}
+A				{color: #777777;}
+
+
+.top		{color: #FFFFFF; font-family: Verdana; font-size: 8pt; font-weight: bold;}
+ .bottom	{color: #777777; font-family: Verdana; font-size: 8pt; font-weight: normal;}
+
+
+.menu		{color: #3B3B3B; font-family: Verdana; font-size: 8pt; font-weight: bold;}
+
+A.menu		{text-decoration: none;}	
+A.menu:hover	{text-decoration: underline;}
+
+.menuoff	{padding-bottom: 3px;}
+.menuon		{padding-bottom: 3px; background-color:#FDFDFD; border-top: #AAAAAA 1px solid; border-bottom: #AAAAAA 1px solid;}
+
+
+INPUT	{color: #000000; font-family: Verdana; font-size: 8pt; font-weight: normal;}
+.button	{background-color: #EEEEEE;}
+
+
+.b		{border: #CCCCCC 1px solid;}
+
+

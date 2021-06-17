@@ -1,0 +1,57 @@
+
+/*
+@font-face	{font-family: "Plumb"; src: url("/Plumb-Regular.ttf");}
+BODY, TD	{color:#5F5B59; font-family:Plumb, Verdana, Tahoma, Arial, Helvetiva, sans-serif; font-size:10pt;}
+*/
+
+BODY, TD	{color:#5F5B59; font-family: Verdana, Tahoma, Arial, Helvetiva, sans-serif; font-size:10pt;}
+
+
+A		{color:#231E1B;}
+A:hover		{color:#DD127E;}
+
+A.grey:hover	{color:#FFFFFF;}
+A.white:hover	{color:#FFFFFF;}
+
+
+.white		{color:#FFFFFF;}
+.grey		{color:#A3A3A3;}
+.small		{font-size:8pt;}
+
+.white SPAN	{font-size:15pt; font-family:Tahoma, Arial, Helvetiva, sans-serif;}
+
+
+
+H1		{color:#413936; font-family: Verdana, Arial, Helvetica, sans-serif; font-size:21pt; font-weight:100; margin:0px 0px 0px 0px; text-transform:uppercase; line-height:37px}
+H2		{color:#413936; font-family: Verdana, Arial, Helvetica, sans-serif; font-size:21pt; font-weight:100; margin:0px 0px 0px 0px; text-transform:uppercase; line-height:37px}
+
+
+
+TD.white A		{color:#FFFFFF;}
+TD.white A:hover	{color:#FFFFFF;}
+
+
+
+TD.menu			{font-weight:bold; font-size:9pt; text-transform:lowercase;}
+TD.menu A		{font-weight:normal;}
+
+
+TD.menu DIV.on		{color:#FFFFFF; background:#DD127E; padding:2px 4px 4px 4px;}
+TD.menu DIV.on A	{color:#FFFFFF;}
+
+TD.menu DIV.off		{color:#1F1A17; background:#FFFFFF; padding:2px 4px 4px 4px;}
+TD.menu DIV.off A	{color:#1F1A17;}
+
+TD.submenu		{font-size:9pt;}
+TD.submenu A		{}
+
+
+TD.submenu DIV.on	{color:#FFFFFF; background:#DD127E; padding:2px 4px 4px 4px; margin:0px 0px 3px 0px;}
+TD.submenu DIV.on A	{color:#FFFFFF;}
+
+TD.submenu DIV.off	{color:#1F1A17; background:#FFFFFF; padding:2px 4px 4px 4px; margin:0px 0px 3px 0px;}
+TD.submenu DIV.off A	{color:#1F1A17;}
+
+
+TD.news-date		{color:#E85CA4; font-size:8pt; padding:2px 0px 0px 0px;}
+TD.news-text		{padding:0px 0px 27px 17px;}
